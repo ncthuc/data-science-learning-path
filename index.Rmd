@@ -1,0 +1,17 @@
+--- 
+title: "A Data Scientist Learning Path"
+author: "Thuc Nguyen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: ncthuc/data-scientist-learning-path
+description: "The Data Scientist Learning Path to be used in Teko's Data Team"
+---
+
+# Preface
+
+The Data Scientist Learning Path to be used in Teko's Data Team
